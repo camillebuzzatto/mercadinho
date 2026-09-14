@@ -1,0 +1,34 @@
+{
+    "produtos":[
+        {
+            "id": 1,
+            "nome":"shampoo do cristiano ronaldo",
+            "preco":40.00,
+            "imagem":"https://assets.unileversolutions.com/v1/1663871.png"
+        },
+          {
+            "id": 2,
+            "nome":"mouse pad",
+            "preco":21.90,
+            "imagem":"https://images.tcdn.com.br/img/img_prod/406359/mousepad_ergonomico_preto_em_neoprene_com_almofada_nr17_previne_doencas_por_esforco_repetitivo_reliz_7275_2_332057336f136d3b136dffcfa3fc51ff.jpg"
+        },
+          {
+            "id": 3,
+            "nome":"oleo reparador",
+            "preco":10.00,
+            "imagem":"https://d2l4mdyojly1ma.cloudfront.net/Custom/Content/Products/45/48/45489_danos-vorazes-oleo-reparador-50ml-ps-19629-49_m4_638621807815247226.webp"
+        },
+          {
+            "id": 4,
+            "nome":"sazon legumes",
+            "preco":3.50,
+            "imagem":"https://m.media-amazon.com/images/I/71LbsdIgALL._AC_UF894,1000_QL80_.jpg"
+        },
+        {
+            "id": 5,
+            "nome":"shampoo elseve",
+            "preco":20.00,
+            "imagem":"https://cdn.awsli.com.br/2500x2500/1358/1358824/produto/62185812/escc-0017-1-uvibtvdhn4.jpg"
+        }
+    ]
+}
